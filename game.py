@@ -1,0 +1,30 @@
+print ("hello guys i have a fun game \nto gess what the number which you chose ")
+maz = input("what is your name?:")
+print(" hello " + maz  )
+input("do you wanna start?:")
+print("Choose the number you like and don't tell me" )
+az = input("done?:")
+print("tawa athrbou fi thnin")
+print("now multiply it by two")
+az = input("you did?:")
+import random
+x = random.randrange(1,100)
+print ("Now add to ")
+print(x)
+print("You can use a calculator if you want")
+az = input("done?:")
+print("Divide it by two")
+az = input("done?:")
+print("Now subtract it from the number you chose at the beginning")
+ef = input("done?:")
+print("you finished?:")
+momo = input("yes or no:")
+if momo == "yes":
+    print("You will find:")
+else:
+    print("Sorry you have a mistake")
+natija = float(x) / 2
+print (natija)
+pfeaopo = input("congratulations 😋")
+input ("ch9awlek fiya ya" + natija) 
+
